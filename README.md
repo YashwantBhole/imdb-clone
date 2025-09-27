@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 IMDb Clone  
 
 An **interactive and feature-rich IMDb Clone** built with **Next.js** ⚡ and styled using **Tailwind CSS** 🎨.  
@@ -41,7 +40,6 @@ This app allows users to **search for movies, explore categories, watch trailers
 ---
 
 ## 🚀 Installation & Usage  
-=======
 # IMDB Clone
 
 An interactive and feature-rich IMDB clone built using **Next.js** with **Tailwind CSS** for styling. This app allows users to search for movies, explore different categories, and view detailed information, including trailers and cast details, powered by the **TMDB API**.
@@ -61,7 +59,6 @@ An interactive and feature-rich IMDB clone built using **Next.js** with **Tailwi
 - **TMDB API** – Fetching real-time movie data.
 
 ## Installation & Usage
->>>>>>> abd80e678ecfc80cc41468cda1d182a6381351a2
 
 1. Clone the repository:
    ```bash
