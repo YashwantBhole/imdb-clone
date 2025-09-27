@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 IMDb Clone  
 
 An **interactive and feature-rich IMDb Clone** built with **Next.js** ⚡ and styled using **Tailwind CSS** 🎨.  
@@ -40,6 +41,27 @@ This app allows users to **search for movies, explore categories, watch trailers
 ---
 
 ## 🚀 Installation & Usage  
+=======
+# IMDB Clone
+
+An interactive and feature-rich IMDB clone built using **Next.js** with **Tailwind CSS** for styling. This app allows users to search for movies, explore different categories, and view detailed information, including trailers and cast details, powered by the **TMDB API**.
+
+## Features
+
+- **Movie Search Functionality**: Search for movies instantly using the TMDB API.
+- **Multiple Categories**: Browse movies based on different genres and categories.
+- **Detailed Movie Page**: View movie posters, descriptions, ratings, likes, and more.
+- **Trailer & Cast Information**: A dedicated page displaying the movie trailer and cast details.
+- **Interactive UI**: Fully responsive and beautifully styled using Tailwind CSS.
+
+## Tech Stack
+
+- **Next.js** – Server-side rendering and optimized performance.
+- **Tailwind CSS** – Modern styling with flexibility.
+- **TMDB API** – Fetching real-time movie data.
+
+## Installation & Usage
+>>>>>>> abd80e678ecfc80cc41468cda1d182a6381351a2
 
 1. Clone the repository:
    ```bash
@@ -72,6 +94,7 @@ npm start
 ```
 ## 👨‍💻 Connect with Me  
 
+<<<<<<< HEAD
 <p align="center">  
   <a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -86,3 +109,8 @@ npm start
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+=======
+---
+**Author**: [Yahshwant Bhole ](https://github.com/YashwantBhole)
+
+>>>>>>> abd80e678ecfc80cc41468cda1d182a6381351a2
