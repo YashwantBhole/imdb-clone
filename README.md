@@ -94,7 +94,6 @@ npm start
 ```
 ## 👨‍💻 Connect with Me  
 
-<<<<<<< HEAD
 <p align="center">  
   <a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -109,8 +108,3 @@ npm start
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-=======
----
-**Author**: [Yahshwant Bhole ](https://github.com/YashwantBhole)
-
->>>>>>> abd80e678ecfc80cc41468cda1d182a6381351a2
