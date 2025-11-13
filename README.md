@@ -40,25 +40,6 @@ This app allows users to **search for movies, explore categories, watch trailers
 ---
 
 ## 🚀 Installation & Usage  
-# IMDB Clone
-
-An interactive and feature-rich IMDB clone built using **Next.js** with **Tailwind CSS** for styling. This app allows users to search for movies, explore different categories, and view detailed information, including trailers and cast details, powered by the **TMDB API**.
-
-## Features
-
-- **Movie Search Functionality**: Search for movies instantly using the TMDB API.
-- **Multiple Categories**: Browse movies based on different genres and categories.
-- **Detailed Movie Page**: View movie posters, descriptions, ratings, likes, and more.
-- **Trailer & Cast Information**: A dedicated page displaying the movie trailer and cast details.
-- **Interactive UI**: Fully responsive and beautifully styled using Tailwind CSS.
-
-## Tech Stack
-
-- **Next.js** – Server-side rendering and optimized performance.
-- **Tailwind CSS** – Modern styling with flexibility.
-- **TMDB API** – Fetching real-time movie data.
-
-## Installation & Usage
 
 1. Clone the repository:
    ```bash
