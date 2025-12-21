@@ -70,7 +70,11 @@ This project can be deployed on **Vercel** or any Next.js-supported platform:
 npm run build
 npm start
 ```
-## 👨‍💻 Connect with Me  
+## 👤 Author & Connect With Me
+
+<div align="center">
+
+### **Yashwant Bhole**
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
@@ -82,7 +86,15 @@ npm start
   <a href="https://github.com/YashwantBhole" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/yashwant_bhole_07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
+
+💼 *Full Stack Developer — MERN • Java • Spring Boot*  
+🌟 *Building AI-powered systems with clean architecture and strong UI/UX.*
+
+</div>
+
+---
+
+## ⭐ Feedback
+
+If you found this project helpful, please ⭐ **star** the repository — it encourages me a lot!
