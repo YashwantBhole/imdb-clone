@@ -97,4 +97,4 @@ npm start
 
 ## ⭐ Feedback
 
-If you found this project helpful, please ⭐ **star** the repository — it encourages me a lot!
+If you found this project helpful, please ⭐ **star** the repository — it encourages me a lot! 
